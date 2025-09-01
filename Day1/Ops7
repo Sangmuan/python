@@ -1,0 +1,7 @@
+# Ternary Operator
+# the ternary operator in 
+
+x = 10
+y = 20
+result = x if x > y else y 
+print(result) # Output: 20

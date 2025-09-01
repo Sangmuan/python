@@ -1,0 +1,14 @@
+# Assignment Operators:
+#	Assignment:
+#	Add and assign: +=
+#	Subtract and assign: -=
+#	Multiply and assign: *=
+#	Divide and assign: /=
+#	Modulus and assign: %=
+#	Exponentiation and assign:
+#	Floor division and assign: //=
+
+x = 5
+x += 2
+print(x)
+

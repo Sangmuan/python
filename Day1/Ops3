@@ -1,0 +1,23 @@
+#
+#	Logical AND:	and	
+#	Logical OR:	or	
+#	Logical NOT: not
+# and  truth table
+# condition1	condition2	Result
+# True	True	True
+# True	False	False
+# False	True	False
+# False	False	False
+# or truth table
+# condition1	condition2	Result
+# True	True	True
+# True	False	True
+# False	True	True
+# False	False	False
+
+
+a = True
+b = False
+print(a and b)	# Output: False
+print(a or b)	# Output: True
+print(not a)	# Output: False
