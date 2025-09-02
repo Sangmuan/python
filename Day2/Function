@@ -1,0 +1,7 @@
+
+def greeting_fun():
+    print("Greeting function called")
+  
+
+greeting_fun();
+greeting_fun();
